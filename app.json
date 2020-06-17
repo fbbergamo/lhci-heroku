@@ -1,6 +1,7 @@
 {
   "name": "LHCI Server",
   "description": "LHCI Server setup for Heroku",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
   "repository": "https://github.com/fbbergamo/lhci-heroku",
   "keywords": ["node", "LHCI", "lighthouse"],
   "addons": [
