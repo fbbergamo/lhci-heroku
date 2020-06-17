@@ -1,7 +1,7 @@
 This repository was extract from https://github.com/GoogleChrome/lighthouse-ci/tree/master/docs/recipes/heroku-server to create the Heroku Deploy Button
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/fbbergamo/lhci-heroku)
+![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/fbbergamo/lhci-heroku)
 
 
 ## Updating LHCI
